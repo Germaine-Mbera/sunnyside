@@ -1,0 +1,139 @@
+.cardo{
+
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    display: flex;
+    gap: 40%;
+    margin: 0%;
+    color: white;
+}
+ul{
+    display: flex;
+    gap: 30%;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+.cards h1{
+    text-align: center;
+}
+.cards{
+    background-image: url(images/image-header.jpg);
+    background-size: cover;
+    /* background-position: 300; */
+    height: 600px;
+}
+body{
+    margin: 0%;
+}
+.cards h1{
+    color: white
+}
+.md img{
+    width: 670px;
+    height: 40vh;
+    
+    
+}
+.md .gege{
+    width: 700px;
+    /* padding: 10%; */
+    /* padding: 10px; */
+}
+.md{
+    background-color: white;
+    display: flex;
+}
+.gaga img{
+    width: 690px;
+    height: 40vh;
+}
+.gaga{
+    display: flex;
+}
+.gaga .nick{
+    /* background-color: white; */
+    width: 500px;
+    /* padding: 10px; */
+}
+.spiro{
+    background-image: url(photos/image-graphic-design.jpg);
+    width: 700px;
+    height: 400px;
+    /* padding: 10px; */
+}
+.spera{
+    background-image: url(photos/image-photography.jpg);
+    /* width: 10px; ; */
+}
+.mama{
+    display: flex;
+}
+.nicole{
+    text-align: center;
+}
+.code img{
+    border-radius: 200px;
+}
+.code{
+    display: flex;
+    
+}
+.klaus img{
+    width: 333px;
+    height: 48vh;
+    /* display: flex; */
+}
+.cyusa {
+    background-color: rgb(164, 230, 164);
+    height: 300px;
+    /* width: 50px; */
+}
+.ccc h2{
+    text-align: center;
+}
+.ccc ol{
+    display: flex;
+    list-style: none;
+    gap: 10%;
+    /* text-align: center; */
+    /* padding-right: 80%; */
+    padding-left: 500px;
+    margin: 0%;
+}
+.mmm{
+    margin-left: 600px;
+}
+.mama h1{
+    text-align: center;
+}
+.mama p{
+    text-align: center;
+}
+.md h1{
+    text-align: center;
+}
+.md p{
+    text-align: center;
+}
+.nick h1{
+    text-align: center;
+    
+}
+.nick p{
+    text-align: center;
+}
+.umulisa{
+    text-align: center;
+}
+.uuu{
+    text-align: center;
+
+}
+.nnn{
+    text-align: center;
+}
+
+
+    
+
